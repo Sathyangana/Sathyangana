@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sandali Dimethri</h1>
 <h3 align="center">DevOps Engineer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sathyangana&label=Profile%20views&color=0e75b6&style=flat" alt="sathyangana" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sathyangana&label=Profile%20views&color=0e75b6&style=flat" alt="sathyangana" /> </p>
 
 ### My Topic
 

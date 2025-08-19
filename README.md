@@ -3,7 +3,9 @@
 <h3 align="center">DevOps Engineer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathyangana&label=Profile%20views&color=0e75b6&style=flat" alt="sathyangana" /> </p>
+
 ---
+
 - 🌱 I’m currently learning **AI, Machine Learning**
 
 - 📫 How to reach me **sadalidimethri@gmail.com**

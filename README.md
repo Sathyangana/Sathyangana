@@ -4,6 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathyangana&label=Profile%20views&color=0e75b6&style=flat" alt="sathyangana" /> </p>
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+
 - 🌱 I’m currently learning **AI, Machine Learning**
 
 - 📫 How to reach me **sadalidimethri@gmail.com**

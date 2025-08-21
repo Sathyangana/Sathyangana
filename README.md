@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sadalidimethri@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **I believe Tea is a fantastic programming language**
 </td>
 
 ---
